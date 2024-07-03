@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dream\Desktop\C++\AJ Renfro JYM1\AJ Renfro JYM1\</FILEPATH>
+      <FILENAME>roster.h</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Roster::classRoster' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Roster::{ctor}</FUNCTION>
+    <DECORATED>??0Roster@@QAE@XZ</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Roster::classRoster</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
